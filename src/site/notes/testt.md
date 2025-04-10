@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/testt/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/testt/"}
 ---
 
 wee
