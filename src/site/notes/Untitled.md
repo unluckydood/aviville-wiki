@@ -1,4 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/untitled/"}
+{"dg-publish":true,"permalink":"/untitled/","tags":["gardenEntry"]}
 ---
 
+fuck
