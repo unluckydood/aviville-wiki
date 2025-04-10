@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aviville-homepage/"}
+{"dg-publish":true,"permalink":"/aviville-homepage/","tags":["gardenEntry"]}
 ---
 
 # WIP 
