@@ -69,8 +69,8 @@ placeholder
         <div class="infobox-datarow">
           <p class="data-heading">Relatives</p>
           <ul class="data-content">
-	          <li>Shyft's Father <sub><i "style=color: skyblue">status unknown</i></sub></li>
-	          <li>Shyft's Sister <sub><i "style=color: skyblue">status unknown</i></sub></li>
+	          <li>Shyft's Father <sub><i>status unknown</i></sub></li>
+	          <li>Shyft's Sister <sub><i>status unknown</i></sub></li>
           </ul>
         </div>
       </div>
